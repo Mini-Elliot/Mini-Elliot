@@ -26,9 +26,9 @@ I’m particularly interested in JavaScript, React, animation, UI design, and un
 - 🔭 Working toward becoming a stronger **full-stack JavaScript developer**
 - 📚 Always learning something new
 - 📚 Currently reading:
-  - *Mindset* — Carol S. Dweck
-  - *How to Win Friends and Influence People* — Dale Carnegie
-  - *Software Engineering* — Ian Sommerville
+  - _Mindset_ — Carol S. Dweck
+  - _How to Win Friends and Influence People_ — Dale Carnegie
+  - _Software Engineering_ — Ian Sommerville
 
 ---
 
@@ -151,43 +151,123 @@ JavaScript
   </a>
 </p>
 
+## ✨ What I Do
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="YOUR_FRONTEND_IMAGE_URL" alt="Frontend Development" width="100%"/>
+      <br><br>
+      <h3>💻 Frontend Development</h3>
+      <p>
+        Building responsive and interactive web experiences with
+        <strong>JavaScript, React, HTML, and CSS</strong>.
+      </p>
+      <a href="#">View Projects →</a>
+    </td>
+
+<td width="33%" align="center">
+      <img src="YOUR_CREATIVE_IMAGE_URL" alt="Creative Development" width="100%"/>
+      <br><br>
+      <h3>✨ Creative Development</h3>
+      <p>
+        Experimenting with <strong>GSAP, animations, UI interactions,
+        and visual design</strong> to create engaging interfaces.
+      </p>
+      <a href="#">View Projects →</a>
+    </td>
+
+<td width="33%" align="center">
+      <img src="YOUR_LEARNING_IMAGE_URL" alt="Continuous Learning" width="100%"/>
+      <br><br>
+      <h3>📚 Continuous Learning</h3>
+      <p>
+        Learning through <strong>projects, books, courses, and experimentation</strong>
+        with new technologies and ideas.
+      </p>
+      <a href="#">View Projects →</a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🚀 Featured Projects
 
-Some of the projects I've built while learning and experimenting with web development.
+<table>
+  <tr>
+    <td width="50%">
+      <img src="YOUR_PROJECT_IMAGE_URL" alt="Guess the Number" width="100%"/>
+      <h3>🎮 Guess the Number</h3>
+      <p>
+        A JavaScript guessing game enhanced with GSAP animations
+        and interactive effects.
+      </p>
+      <strong>JavaScript · GSAP · CSS</strong>
+      <br><br>
+      <a href="YOUR_REPOSITORY_URL">View Repository →</a>
+      &nbsp;&nbsp;
+      <a href="YOUR_LIVE_DEMO_URL">Live Demo →</a>
+    </td>
 
-### 🎮 Guess the Number
+<td width="50%">
+      <img src="YOUR_PROJECT_IMAGE_URL" alt="Dastar Khuwan" width="100%"/>
+      <h3>🍽️ Dastar Khuwan</h3>
+      <p>
+        A Pakistani restaurant website built with React,
+        featuring a menu, reservations, and booking interface.
+      </p>
+      <strong>React · JavaScript · React Router · CSS Modules</strong>
+      <br><br>
+      <a href="YOUR_REPOSITORY_URL">View Repository →</a>
+      &nbsp;&nbsp;
+      <a href="YOUR_LIVE_DEMO_URL">Live Demo →</a>
+</td>
+  </tr>
 
-A JavaScript guessing game enhanced with GSAP animations and interactive effects.
+  <tr>
+    <td width="50%">
+      <img src="YOUR_PROJECT_IMAGE_URL" alt="RSS Reader" width="100%"/>
+      <h3>📰 RSS Reader</h3>
+      <p>
+        A frontend RSS reader focused on consuming and presenting
+        feed content through a clean interface.
+      </p>
+      <strong>HTML · CSS · JavaScript</strong>
+      <br><br>
+      <a href="YOUR_REPOSITORY_URL">View Repository →</a>
+      &nbsp;&nbsp;
+      <a href="YOUR_LIVE_DEMO_URL">Live Demo →</a>
+    </td>
 
-**JavaScript • GSAP • CSS**
-
-[View Repository →](#)
-
-### 🍽️ Dastar Khuwan
-
-A Pakistani restaurant website built with React, featuring a structured menu, dish details, table reservations, and a booking interface.
-
-**React • JavaScript • React Router • CSS Modules**
-
-[View Repository →](#)
-
-### 📰 RSS Reader
-
-A frontend RSS reader project built as part of my frontend development practice.
-
-**HTML • CSS • JavaScript**
-
-[View Repository →](#)
+<td width="50%">
+      <img src="YOUR_PROJECT_IMAGE_URL" alt="Project" width="100%"/>
+      <h3>🔨 More Projects</h3>
+      <p>
+        Explore more of my experiments, practice projects,
+        and web development work.
+      </p>
+      <br>
+      <a href="https://github.com/Mini-Elliot?tab=repositories">View All Repositories →</a>
+</td>
+  </tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mini-Elliot&show_icons=true&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mini-Elliot&layout=compact&hide_border=true" height="170" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mini-Elliot&theme=github_dark"
+    alt="GitHub Contribution Graph"
+    width="50%"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Mini-Elliot&hide_border=true"
+    alt="GitHub Streak"
+    height="170"
+  />
 </p>
 
 ---
